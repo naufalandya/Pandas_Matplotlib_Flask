@@ -16,7 +16,7 @@ def connect_to_database():
         host="localhost",
         database="MyZoo",
         user="postgres",
-        password="Phoeblex25"
+        password="uwuwuwuwuwu"
     )
     return connection
 
